@@ -1,1 +1,1 @@
-print ("Testin git")
+print ("Testing git")
